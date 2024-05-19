@@ -1,0 +1,21 @@
+11254352 (STUDENT ID)
+The task was given in sessions 
+2. formatArrayStrings
+The formatArrayStrings function takes two arrays as arguments:
+
+An array of strings.
+An array of numbers processed by processArray.
+It returns a new array of strings where:
+
+The entire string is capitalized if the corresponding number is even.
+The string is converted to lowercase if the corresponding number is odd.
+createUserProfiles
+The createUserProfiles function takes two arrays as arguments:
+
+An array of original names.
+An array of modified names from formatArrayStrings.
+It returns an array of objects, each containing:
+
+originalName: The original name.
+modifiedName: The modified name.
+id: An auto-incremented ID starting from 1.
